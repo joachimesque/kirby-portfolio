@@ -1,0 +1,13 @@
+﻿Title: Project C
+
+----
+
+Date: 2002-04-22
+
+----
+
+Slideshow: on
+
+----
+
+Description: This or that.

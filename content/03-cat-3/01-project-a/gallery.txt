@@ -1,0 +1,13 @@
+﻿Title: Project A
+
+----
+
+Date: 2002-04-22
+
+----
+
+Slideshow: on
+
+----
+
+Description: This or that. Not that it matters too much. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.

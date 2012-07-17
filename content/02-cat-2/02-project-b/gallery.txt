@@ -1,0 +1,13 @@
+﻿Title: Project B
+
+----
+
+Date: 2002-04-22
+
+----
+
+Slideshow: on
+
+----
+
+Description: This or that. Not that it matters too much. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.

@@ -1,0 +1,13 @@
+﻿Title: Project A
+
+----
+
+Date: 15.06.2012
+
+----
+
+Slideshow: on
+
+----
+
+Description: This or that. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.

@@ -1,0 +1,13 @@
+body {
+  width: 320px;
+}
+
+
+ul.prevnext {
+	top: 0;
+	width: 100%; 
+}
+.content h1 {
+	padding-top: 1.6em;
+
+}

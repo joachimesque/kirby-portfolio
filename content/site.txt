@@ -1,0 +1,21 @@
+﻿Title: Kirby Portfolio, a free theme for Kirby
+
+----
+
+Author: Johnny Appleseed
+
+----
+
+Email: <johnny@example.com>
+
+----
+
+Description: This is a photography portfolio theme for Kirby, the simple flat-file CMS.
+
+----
+
+Keywords: kirby, cms, kirbycms, php, filesystem, portfolio, photo, photography
+
+----
+
+Copyright: © 2012 (link: http://joachimesque.com/kirby-portfolio text: Joachim Robert) – theme : (link: http://joachimesque.com/kirby-portfolio text: Kirby Portfolio)

@@ -1,0 +1,13 @@
+﻿Title: Project C
+
+----
+
+Date: 2002-04-22
+
+----
+
+Slideshow: on
+
+----
+
+Description: This or that. Not that it matters too much. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.

@@ -1,0 +1,34 @@
+﻿Title: Features
+
+----
+
+Text: ## Features of the Kirby Portfolio theme
+
+- Responsive design
+- Optional Slideshow for the desktop/large tablet view
+- (link: http://getkirby.com/blog/thumb-plugin text: Thumbnails) are auto-generated
+- ...
+- Perfect for photography portfolios!
+
+## Aknowledgements
+
+Kirby Portfolio uses code and images from two projects :
+- (link: https://github.com/jackwanders/GalleryView text: GalleryView), by (link: http://www.spaceforaname.com/ text: Jack Anderson) ((link: https://github.com/jackwanders/GalleryView/blob/master/LICENSE.txt text: license)), a solid jQuery slideshow.
+- (link: https://github.com/JoePettersson/jQuery-powered-HTML5-navigation-menu text: jQuery navigation menu) by (link: http://www.joepettersson.com/ text: Joe Pettersson) ((link: http://www.joepettersson.com/licensing/ text: license)), a very elegant jQuery & HTML5-powered dropdown menu.
+
+Thank you!
+
+
+## License
+
+The Kirby Portfolio theme is distributed under a (link: http://creativecommons.org/licenses/by/3.0/ text: Creative Commons Attribution 3.0) license, you can use it for free. (link: http://getkirby.com text: Kirby) is a commercial CMS for which a license is required.
+
+## About Kirby
+
+(link: http://getkirby.com text: Kirby) is a flat file CMS developed by (link: http://bastianallgeier.com text: Bastian Allgeier). It's really simple and flexible.
+
+## Contact
+
+If you find any bug, or have questions about the inner workings of my theme you can contact me : <joachim.robert@gmail.com>.
+
+If you have questions regarding Kirby, start by looking at (link: http://getkirby.com/docs text: the documentation), then look at (link: http://getkirby.com/tutorials text: the tutorials)... you should have all your answers. If not, there's a forum :)
