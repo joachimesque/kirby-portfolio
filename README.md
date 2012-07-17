@@ -10,6 +10,8 @@ This theme has been designed with photographers in mind. The structure is simple
 - ...
 - Perfect for photography portfolios!
 
+**Demo** : [Kirby Portfolio](http://joachimesque.com/kirby-portfolio)
+
 ## What's Kirby?
 [http://getkirby.com/](Kirby) is a flat file CMS developed by [Bastian Allgeier](http://bastianallgeier.com). It's really simple and flexible.
 
